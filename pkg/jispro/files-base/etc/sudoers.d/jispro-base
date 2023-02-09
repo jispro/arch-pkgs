@@ -1,0 +1,5 @@
+# Managed by jispro-base package
+# https://github.com/jispro/arch-pkgs/blob/master/pkg/jispro/base/sudoers.wheel
+
+%wheel ALL=(ALL) ALL
+Defaults passwd_timeout=0
