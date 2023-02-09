@@ -1,5 +1,7 @@
 post_install() {
     post_upgrade
+
+    echo "DONE with jispro-workstation package"
 }
 
 post_upgrade() {
